@@ -1,1 +1,4 @@
 encoding: utf-8
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com"
+url: "http://shihongji.github.io/myblog"
